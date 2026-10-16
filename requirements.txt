@@ -1,0 +1,4 @@
+fastapi>=0.110
+uvicorn>=0.27
+# Only needed if you enable SENB body encryption (BB_ENC_MODE=optional|required)
+pynacl>=1.5
