@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+bloodborne.db
+bloodborne.db-wal
+bloodborne.db-shm
+debug.log
+*.log
+*.zip
+bb_enc_key.txt
+webapp/otp.db
